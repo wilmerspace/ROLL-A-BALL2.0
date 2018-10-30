@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Rollball2",
+"dataUrl": "ROLL a BALL.data.unityweb",
+"wasmCodeUrl": "ROLL a BALL.wasm.code.unityweb",
+"wasmFrameworkUrl": "ROLL a BALL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
